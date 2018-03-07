@@ -43,33 +43,8 @@ public class PrecedenciaOperadores {
         //El operador + es asociativo a la izquierda
         System.out.println(1+2+"abc"); //Detecta una operacion primero 
         System.out.println("abc" + 1+2);//Detecta una cadena primero
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
 
-        
-        
-        
+     
         
     }
     
